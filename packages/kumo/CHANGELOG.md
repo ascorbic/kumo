@@ -1,5 +1,11 @@
 # @cloudflare/kumo
 
+## 2.0.2
+
+### Patch Changes
+
+- 3427221: TooltipProvider props (`delay`, `closeDelay`, `timeout`) are now shown in the Tooltip component's API Reference on the docs site.
+
 ## 2.0.1
 
 ### Patch Changes
